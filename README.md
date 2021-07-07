@@ -1,0 +1,2 @@
+# locafiles
+addLocalsFies
